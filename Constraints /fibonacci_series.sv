@@ -1,3 +1,6 @@
+// ----------------------------------------------
+// Author: Omkar Ashish Shelar
+// ----------------------------------------------
 // Q: Generate fibonacci series 
 
 class fibonacci_cons; 
