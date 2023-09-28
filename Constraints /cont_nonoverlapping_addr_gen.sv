@@ -1,6 +1,5 @@
 // ------------------------------------------------------------------
 // Author: Omkar Ashish Shelar
-// Date: 09 September 2023
 // ------------------------------------------------------------------
 // Q: Generate contiguous, non-overlapping address regions within a given range. 
 
